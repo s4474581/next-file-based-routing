@@ -9,14 +9,13 @@ const items = [
   { id: 3, item: "Mar" },
   { id: 4, item: "Apr" },
   { id: 5, item: "May" },
-  // "May",
-  // "Jun",
-  // "Jul",
-  // "Aug",
-  // "Sep",
-  // "Oct",
-  // "Nob",
-  // "Dec",
+  { id: 6, item: "Jun" },
+  { id: 7, item: "Jul" },
+  { id: 8, item: "Aug" },
+  { id: 9, item: "Sep" },
+  { id: 10, item: "Oct" },
+  { id: 11, item: "Nob" },
+  { id: 12, item: "Dec" },
 ];
 
 function EventsSearch(props) {
